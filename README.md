@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pavanpoojary348/leetcode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/pavanpoojary348/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
