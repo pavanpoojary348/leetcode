@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pavanpoojary348/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pavanpoojary348/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pavanpoojary348/leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/pavanpoojary348/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavanpoojary348/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
