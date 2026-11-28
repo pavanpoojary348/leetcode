@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavanpoojary348/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/pavanpoojary348/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pavanpoojary348/leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/pavanpoojary348/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pavanpoojary348/leetcode/tree/master/0053-maximum-subarray) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pavanpoojary348/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/pavanpoojary348/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pavanpoojary348/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pavanpoojary348/leetcode/tree/master/0169-majority-element) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pavanpoojary348/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/pavanpoojary348/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pavanpoojary348/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavanpoojary348/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
